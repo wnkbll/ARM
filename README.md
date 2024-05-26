@@ -2,7 +2,7 @@
 
 ### Выполнили студенты 
 ### ИВТ-23-1б
-- [Никита Серебряков](https://github.com/)
+- [Никита Серебряков](https://github.com/MonBeauChagrin)
 ### ИВТ-23-2б
 - [Григорий Аржевитин](https://github.com/wnkbll)
 - [Вячеслав Хайдаршин](https://github.com/appllepie)
