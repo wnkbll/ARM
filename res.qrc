@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resources/imgs/back.png</file>
+        <file>resources/imgs/Regicon.png</file>
+        <file>resources/imgs/MainWindow.png</file>
+        <file>resources/imgs/workwindow.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>resources/fonts/Ubuntu-Regular.ttf</file>
+        <file>resources/fonts/Ubuntu-Medium.ttf</file>
+    </qresource>
+</RCC>
