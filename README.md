@@ -8,7 +8,7 @@
 - [Вячеслав Хайдаршин](https://github.com/appllepie)
 
 
-### [Видео-отчёт на YouTube](https://youtu.be/fsV0ysdqKkA)
+### [Видео-отчёт на YouTube](https://www.youtube.com/watch?v=kQduQoyZw7k)
 
 ### UML-диаграмма
 ![Диаграмма без названия drawio](https://github.com/wnkbll/ARM/assets/148702947/53e6ae0c-bf4a-41ac-b7c3-80f32e5b0b34)
